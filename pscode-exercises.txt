@@ -1,13 +1,13 @@
 // Exercise 1: Calculate the Sum of Two Numbers
 
-Ask user for 2 numbers (a & b)
-Add a+b
-print "the total is (sum of a+b)" 
+Ask user for 2 numbers
+Add the 2 numbers for the SUM (S)
+print "the total is (S)" 
 
 
 // Exercise 2: Check if a Number is Even or Odd
 Ask user for a number
-Check if number is Even
+Check if number is divisible by 2 and has a remainder of 0
 If yes, print "Your number is Even"
 If no, print "Your number is Odd"
 
@@ -19,14 +19,14 @@ b) Calculate the average of the five numbers.
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
-a) Ask user for 5 different numbers (a,b,c,d,e)
-b) Add a+b+c+d+e for subtotal
-  b.2) Divide subtotal by 5 for average
-c) check the minimum of a,b,c,d,e
-  c.2) check the maximum for a,b,c,d,e
-d) Print "Average of a,b,c,d,e"
-  d.2) Print "Maximum of a,b,c,d,e"
-  d.3) Print "Minimum a,b,c,d,e"
+a) Ask user for 5 different numbers
+b) Add the 5 numbers to get the subtotal
+  b.2) Divide subtotal by 5 for the Average (X)
+c) check the 5 numbers for the smallest number for the Minimum (Y)
+  c.2) check the 5 numbers for the lagest number for the Maximum (Z)
+d) Print "The Average is X"
+  d.2) Print "The Maximum is Y"
+  d.3) Print "The Minimum is Z"
 
 
 
